@@ -7,6 +7,7 @@ Actualmente estudiando Ingeniería en Animación Digital en la Universidad panam
 - Actualmente cursando el 8° semestre en la carrera de Animación digital en la Universidad Panamericana campus Ciudad de México.
 - Promedio general 8.0
 - Fecha estimada de graduación, Noviembre 2014
+- Diplomado en desarrollo Android por UNAM móvil
 
 ###Idiomas
 - Español: Lengua nativa.
