@@ -1,4 +1,5 @@
 #Mario Carballo Zama
+![Profile](http://www.gravatar.com/avatar/ca9850d5f37fdc233a6dcd03ad211886.png)
 
 ##Intención
 Actualmente estudiando Ingeniería en Animación Digital en la Universidad panamericana, mi principal meta es seguir aprendiendo sobre los temas de mi interés y aplicar lo que ya he aprendido en un campo laboral.
