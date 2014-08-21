@@ -5,7 +5,6 @@ Actualmente cursando el 8º semestre de Animación Digital en la Universidad Pan
 
 ##Educación
 - Actualmente cursando el 8° semestre en la carrera de Animación digital en la Universidad Panamericana campus Ciudad de México.
-- Promedio general 8.0
 - Fecha estimada de graduación, Noviembre 2014
 - Diplomado en Desarrollo Android por UNAM móvil
 
@@ -22,6 +21,7 @@ Actualmente cursando el 8º semestre de Animación Digital en la Universidad Pan
 - Css3 
 - Java Script
 - Jquery
+- AngularJS
 
 ####Back End
 - Python - Django
@@ -87,7 +87,7 @@ En esta empresa he participado en los siguientes proyectos:
 
 - Desarrollo Front end de la  segunda versión de la pagina web de la [empresa](http://www.nyxtechnology.com/).
 - Desarrollo Front end para la página web 2013 del [Festival Internacional Cervantino](http://www.festivalcervantino.    gob.mx/).
-- Diseño de interfax y desarrollo de aplicación móvil para el Festival Internacional Cervantino 2013 en la plataforma     Android.
+- Diseño de interfaz y desarrollo de aplicación móvil para el Festival Internacional Cervantino 2013 en la plataforma     Android.
 - Diseño de interfaz y desarrollo de aplicación móvil para el Festival Internacional de cine de Acapulco 2013 en la plataforma Android.
 - Desarrollo para la actualización de interfaz para la aplicación del Auditorio nacional 2013.
 - Desarrollo para la actualización de interfaz para la aplicación del Lunario 2013.
