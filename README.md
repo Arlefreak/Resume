@@ -1,18 +1,13 @@
 # Mario Carballo Zama
 
-## Goals
-I am currently studying 8th semester, majoring in Digital Animation at Universidad Panamericana, my main goal is to learn more about programming, animation and design, while being able to apply this knowledge in the workplace.
-
 ## Education
-- 8th semester studying Digital Animation at Universidad Panamericana
-- Grade average: 8.0
-- Approximate graduation date: November 2014
-- Diploma for Android Development issued by UNAM mobile
+- A degree in  Digital Animation at Universidad Panamericana campus Ciudad de México.
+- Currently Mayoring in Proyect Administration at Universidad Panamericana campus Ciudad de México
 
 ### Languages
 - Spanish: Native speaker
 - English: Passed TOEFL test in 2010
--French: Intermediate level I
+- French: Intermediate level I
 
 ## Skills
 ### Web Design
@@ -20,27 +15,32 @@ I am currently studying 8th semester, majoring in Digital Animation at Universid
 - Html5
 - Markdown
 - Css3 
-- Java Script
 - Jquery
 - AngularJS
 
 #### Back End
-- Python - Django
-- Php - Wordpress
+- Django
+- Wordpress
+- Shopify
+- NginX
+- Systemd
 
 ### Android Development
-- Java
-- Android Studio -  Graddle
-- Eclipse
+- Android Studio 
+- Graddle
 
 ### Video game development
-- Html5 - Js - Phaser.js
-- Unity
-- Construct
+- Unity 
+- Phaser.js
+- Corona SDK
 
-### Other programming languages
+### Programming languages
 - C#
-- C++
+- Java Script
+- Bash
+- Python
+- Lua
+- Java
 
 ### Version Control System
 - Git(Github, Bitbucket)
@@ -49,9 +49,8 @@ I am currently studying 8th semester, majoring in Digital Animation at Universid
 - Scrum(Trello, Jira)
 
 ### Text Editors
-- Note pad ++
-- Sublime text
 - Vim
+- Sublime text
 
 ### Design
 While having no formal training or education in design, I have learnt to use the following programs on my own:
@@ -67,39 +66,49 @@ While having no formal training or education in design, I have learnt to use the
 - Gimp
 - Inkscape
 
-### Operating systems
-- Linux (Arch)
-- OSX
-- Windows
-
-### Office software
-- Microsoft Office
-- Google docs
-- Libre 
+### System admin
+- Linux (Arch, Debian)
 
 ## Experience
-- Co- founder of [Punto y coma](http://puntoycoma.mx/) which was founded in January 2013, we have developed various projects.
-- Working for [Nyx Technology] since February 2013(http://www.nyxtechnology.com/)
+- Co-founder of Punto y coma January 2013 - January 2014.
+- Nyx Technology (http://www.nyxtechnology.com/) February 2013 - September 2014.
+- HyperBeard Games (http://www.hyperbeard.com/) May 2014  - present.
+- Apps-O-Rama (https://www.appsorama.com/) Febrary 2015 - present.
+- Arlefreak (https://www.arlefreak.com/) as a freelancer.
 
 ### Punto y coma 
-- Front end development for the companies webpage [Punto y coma](http://puntoycoma.mx/).
-- Front and back end development for[Colegio Andersen](http://colegioandersen.edu.mx/).
+- Front and back end development forColegio Andersen (http://colegioandersen.edu.mx/).
 
 ### Nyx Technology
-During my time here I have been involved in the following projects:
 
-- Front end development for the companies web page overhaul [Nyxtechnology](http://www.nyxtechnology.com/).
-- Front end development for the 2013 festival [Festival Internacional Cervantino](http://www.festivalcervantino.gob.mx/).
+- Front end development for the companies web page overhaul Nyxtechnology (http://www.nyxtechnology.com/).
+- Front end development for the 2013 festival Festival Internacional Cervantino (http://www.festivalcervantino.gob.mx/).
 - Interface design and development for the android app for the festival: Festival Internacional Cervantino 2013.
 - Interface design and development for the android app for the festival: Festival Internacional de cine de Acapulco 2013.
 - Development for the redesigned interface for the National Auditorium 2013 app.
 - Development for the redesigned interface for the Lunario 2013 app.
-- Back end development using wordpress platform for the author's [Gabriel Zaid]webpage (http://gabrielzaid.com/).
+- Back end development using wordpress platform for the author's Gabriel Zaid (http://gabrielzaid.com/).
 
-### Freetime
-During my free time I have pursued my passion for developing video games, I currently have 5 projects on my [website](http://www.arlefreak.com/).
+### HyperBeard Games
+- Front and back end development for HyperBeard Games website (http://www.hyperbeard.com/).
+- Game development on Bouncing Dude (http://www.hyperbeardgames.com/game/bouncing-dude/)
+- Game development on Palabraz (http://www.hyperbeardgames.com/game/palabraz/)
+- Game development on Muertitos (http://www.hyperbeardgames.com/game/muertitos/)
+- Game development on Space Scape (http://www.hyperbeardgames.com/game/spacescape/)
+
+### Apps-O-Rama
+- Calculator Cute (https://play.google.com/store/apps/details?id=com.appsorama.calculator)
+- The Balloons (http://theballoonsgame.com/)
+
+### Arlefreak
+- Luis Quiroz front and back end development (http://luisquiroz.me/index.html)
+- Ixaya front and back end development (http://www.ixayacondesa.com/)
+- ASP front and back end development (http://asp.mx/)
+- Monica Patiño front and back end development (http://mp.casavirginia.mx/)
+- Casa virginia and back end development (http://www.casavirginia.mx/)
+- Delirio & Abarrotes and back end development (http://delirio.mx/)
 
 ## References
-- [Github](https://github.com/Arlefreak)
-- [Linkedln](http://lnkd.in/99e6bA)
-- [Correo](arlefreak@gmail.com)
+- Github (https://github.com/Arlefreak)
+- Linkedln (http://lnkd.in/99e6bA)
+- Mail (hi@arlefreak.com)

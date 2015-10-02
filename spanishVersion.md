@@ -1,12 +1,8 @@
 # Mario Carballo Zama
 
-## Intención
-Actualmente cursando el 8º semestre de Animación Digital en la Universidad Panamericana, mi principal meta es seguir aprendiendo sobre los temas de mi interés, como programación, animación y diseño y aplicar lo que ya he aprendido en un campo laboral.
-
 ## Educación
-- Actualmente cursando el 8° semestre en la carrera de Animación digital en la Universidad Panamericana campus Ciudad de México.
-- Fecha estimada de graduación, Noviembre 2014
-- Diplomado en Desarrollo Android por UNAM móvil
+- Licenciatura en la carrera de Animación digital en la Universidad Panamericana campus Ciudad de México.
+- Actualmente cursando la especialidad en Administración de proyectos en la Universidad Panamericana campus Ciudad de México
 
 ### Idiomas
 - Español: Lengua nativa.
@@ -24,22 +20,28 @@ Actualmente cursando el 8º semestre de Animación Digital en la Universidad Pan
 - AngularJS
 
 #### Back End
-- Python - Django
-- Php - Wordpress
+- Django
+- Wordpress
+- Shopify
+- NginX
+- Systemd
 
 ### Desarrollo en plataforma Android
-- Java
-- Android Studio -  Graddle
-- Eclipse
+- Android Studio 
+- Graddle
 
 ### Desarrollo de videojuegos
-- Html5 - Js - Phaser.js
-- Unity
-- Construct
+- Unity 
+- Phaser.js
+- Corona SDK
 
 ### Otros lenguajes de programación
 - C#
-- C++
+- Java Script
+- Bash
+- Python
+- Lua
+- Java
 
 ### Version Control System
 - Git(Github, Bitbucket)
@@ -48,9 +50,8 @@ Actualmente cursando el 8º semestre de Animación Digital en la Universidad Pan
 - Scrum(Trello, Jira)
 
 ### Editores de texto
-- Note pad ++
-- Sublime text
 - Vim
+- Sublime text
 
 ### Diseño
 Si bien no tengo una educación formal de diseño gráfico, por interés personal he aprendido a utilizar las siguientes herramientas.
@@ -66,38 +67,47 @@ Si bien no tengo una educación formal de diseño gráfico, por interés persona
 - Gimp
 - Inkscape
 
-### Sistemas operativos
-- Linux (Arch)
-- OSX
-- Windows
-
-### Herramientas de oficina
-- Microsoft Office
-- Google docs
-- Libre 
+### Administrador de sistemas
+- Linux (Arch, Debian)
 
 ## Experiencia
-- Co-fundador de [Punto y coma](http://puntoycoma.mx/) que inicié en Enero del 2013 en el que he desarrollado diferentes proyectos.
-- Desde febrero del 2013 trabajo en [Nyx Technology](http://www.nyxtechnology.com/)
-### Punto y coma 
-- Diseño de Front end para la página de [Punto y coma](http://puntoycoma.mx/).
-- Desarrollo Front end y Back end para la página del [Colegio Andersen](http://colegioandersen.edu.mx/).
+- Co-fundador de Punto y coma Enero 2013 - Enero 2014.
+- Nyx Technology (http://www.nyxtechnology.com/) Febrero 2013 - Septiembre 2014.
+- HyperBeard Games (http://www.hyperbeard.com/) Mayo 2014  - present.
+- Apps-O-Rama (https://www.appsorama.com/) Febrero 2015 - present.
+## Punto y coma 
+- Front y back end development forColegio Andersen (http://colegioandersen.edu.mx/).
+
 ### Nyx Technology
-En esta empresa he participado en los siguientes proyectos:
 
-- Desarrollo Front end de la  segunda versión de la pagina web de la [empresa](http://www.nyxtechnology.com/).
-- Desarrollo Front end para la página web 2013 del [Festival Internacional Cervantino](http://www.festivalcervantino.    gob.mx/).
-- Diseño de interfaz y desarrollo de aplicación móvil para el Festival Internacional Cervantino 2013 en la plataforma     Android.
-- Diseño de interfaz y desarrollo de aplicación móvil para el Festival Internacional de cine de Acapulco 2013 en la plataforma Android.
-- Desarrollo para la actualización de interfaz para la aplicación del Auditorio nacional 2013.
-- Desarrollo para la actualización de interfaz para la aplicación del Lunario 2013.
-- Desarrollo back end en wordpress para la página del autor [Gabriel Zaid](http://gabrielzaid.com/).
+- Front end development for the companies web page overhaul Nyxtechnology (http://www.nyxtechnology.com/).
+- Front end development for the 2013 festival Festival Internacional Cervantino (http://www.festivalcervantino.gob.mx/).
+- Interface design y development for the android app for the festival: Festival Internacional Cervantino 2013.
+- Interface design y development for the android app for the festival: Festival Internacional de cine de Acapulco 2013.
+- Development for the redesigned interface for the National Auditorium 2013 app.
+- Development for the redesigned interface for the Lunario 2013 app.
+- Back end development using wordpress platform for the author's Gabriel Zaid (http://gabrielzaid.com/).
 
-### Independiente
-De manera independiente he desarrollado varios proyectos, entre ellos 5 vieojuegos en HTML5, disponibles en mi [página personal](http://www.arlefreak.com/).
+### HyperBeard Games
+- Front y back end developmer para la página de HyperBeard Games website (http://www.hyperbeard.com/).
+- Desarrollador en Bouncing Dude (http://www.hyperbeardgames.com/game/bouncing-dude/)
+- Desarrollador en Palabraz (http://www.hyperbeardgames.com/game/palabraz/)
+- Desarrollador en Muertitos (http://www.hyperbeardgames.com/game/muertitos/)
+- Desarrollador en Space Scape (http://www.hyperbeardgames.com/game/spacescape/)
 
-## Enlaces de referencia
-- [Github](https://github.com/Arlefreak)
-- [Linkedln](http://lnkd.in/99e6bA)
-- [Correo](arlefreak@gmail.com)
+### Apps-O-Rama
+- Calculator Cute (https://play.google.com/store/apps/details?id=com.appsorama.calculator)
+- The Balloons (http://theballoonsgame.com/)
 
+### Arlefreak
+- Luis Quiroz desarrollo front y back end (http://luisquiroz.me/index.html)
+- Ixaya desarrollo front y back end (http://www.ixayacondesa.com/)
+- ASP desarrollo front y back end (http://asp.mx/)
+- Monica Patiño desarrollo front y back end (http://mp.casavirginia.mx/)
+- Casa virginia desarrollo front y back end (http://www.casavirginia.mx/)
+- Delirio & Abarrotes desarrollo y back end (http://delirio.mx/)
+
+## References
+- Github (https://github.com/Arlefreak)
+- Linkedln (http://lnkd.in/99e6bA)
+- Correo (hi@arlefreak.com)
