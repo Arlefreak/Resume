@@ -1,8 +1,69 @@
+![Logo](./Logo.png)
 # Mario Carballo Zama
 
+## Experience
+- Co-founder of Punto y coma January 2013 - January 2014.
+- Nyx Technology February 2013 - September 2014.
+- HyperBeard Games May 2014  - present.
+- Apps-O-Rama Febrary 2015 - present.
+- Arlefreak as a freelancer.
+
+### Punto y coma 
+- Front and back end development forColegio Andersen.
+
+### Nyx Technology
+
+- Front end development for the companies web page overhaul Nyxtechnology.
+- Front end development for the 2013 Festival Internacional Cervantino.
+- Interface design and development for the android app for the: Festival Internacional Cervantino 2013.
+- Interface design and development for the android app for the: Festival Internacional de cine de Acapulco 2013.
+- Development for the redesigned interface for the National Auditorium 2013 app.
+- Development for the redesigned interface for the Lunario 2013 app.
+- Back end development using wordpress platform for the author's Gabriel Zaid.
+
+### HyperBeard Games
+- Front and back end development for HyperBeard Games website.
+- Game development on Bouncing Dude.
+- Game development on Palabraz.
+- Game development on Muertitos.
+- Game development on Space Scape.
+
+### Apps-O-Rama
+- Calculator Cute
+
+### Arlefreak
+- Luis Quiroz front and back end development
+- ASP front and back end development asp.mx
+- Ixaya front and back end development ixayacondesa.com
+- Monica Patiño front and back end development 
+- Casa virginia and back end development
+- Delirio & Abarrotes and back end development
+
+## References & Contact
+<ul class="left">
+    <li>hi@arlefreak.com</li>
+    <li>github.com/Arlefreak</li>
+    <li>lnkd.in/99e6bA</li>
+    <li>nyxtechnology.com</li>
+    <li>hyperbeard.com</li>
+    <li>appsorama.com</li>
+    <li>arlefreak.com</li>
+</ul>
+<ul class="right">
+    <li>colegioandersen.edu.mx</li>
+    <li>festivalcervantino.gob.mx</li>
+    <li>luisquiroz.me</li>
+    <li>asp.mx</li>
+    <li>ixayacondesa.com</li>
+    <li>casavirginia.mx</li>
+    <li>delirio.mx</li>
+</ul>
+
+<div class="margin"></div>
+
 ## Education
-- A degree in  Digital Animation at Universidad Panamericana campus Ciudad de México.
-- Currently Mayoring in Proyect Administration at Universidad Panamericana campus Ciudad de México
+- B.D. in  Digital Animation at Universidad Panamericana campus Ciudad de México.
+- Currently majoring in Project Administration at Universidad Panamericana campus Ciudad de México
 
 ### Languages
 - Spanish: Native speaker
@@ -10,15 +71,15 @@
 - French: Intermediate level I
 
 ## Skills
-### Web Design
-#### Front End
+
+### Front End
 - Html5
 - Markdown
 - Css3 
 - Jquery
 - AngularJS
 
-#### Back End
+### Back End
 - Django
 - Wordpress
 - Shopify
@@ -53,14 +114,9 @@
 - Sublime text
 
 ### Design
-While having no formal training or education in design, I have learnt to use the following programs on my own:
+*While having no formal training or education in design, I have learnt to use the following programs on my own:*
 
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe Fireworks
-- Adobe Premier
-- Adobe After Effects
-- Adobe In Design
+- Adobe Suite
 - Autodesk Maya
 - Blender
 - Gimp
@@ -68,47 +124,3 @@ While having no formal training or education in design, I have learnt to use the
 
 ### System admin
 - Linux (Arch, Debian)
-
-## Experience
-- Co-founder of Punto y coma January 2013 - January 2014.
-- Nyx Technology (http://www.nyxtechnology.com/) February 2013 - September 2014.
-- HyperBeard Games (http://www.hyperbeard.com/) May 2014  - present.
-- Apps-O-Rama (https://www.appsorama.com/) Febrary 2015 - present.
-- Arlefreak (https://www.arlefreak.com/) as a freelancer.
-
-### Punto y coma 
-- Front and back end development forColegio Andersen (http://colegioandersen.edu.mx/).
-
-### Nyx Technology
-
-- Front end development for the companies web page overhaul Nyxtechnology (http://www.nyxtechnology.com/).
-- Front end development for the 2013 festival Festival Internacional Cervantino (http://www.festivalcervantino.gob.mx/).
-- Interface design and development for the android app for the festival: Festival Internacional Cervantino 2013.
-- Interface design and development for the android app for the festival: Festival Internacional de cine de Acapulco 2013.
-- Development for the redesigned interface for the National Auditorium 2013 app.
-- Development for the redesigned interface for the Lunario 2013 app.
-- Back end development using wordpress platform for the author's Gabriel Zaid (http://gabrielzaid.com/).
-
-### HyperBeard Games
-- Front and back end development for HyperBeard Games website (http://www.hyperbeard.com/).
-- Game development on Bouncing Dude (http://www.hyperbeardgames.com/game/bouncing-dude/)
-- Game development on Palabraz (http://www.hyperbeardgames.com/game/palabraz/)
-- Game development on Muertitos (http://www.hyperbeardgames.com/game/muertitos/)
-- Game development on Space Scape (http://www.hyperbeardgames.com/game/spacescape/)
-
-### Apps-O-Rama
-- Calculator Cute (https://play.google.com/store/apps/details?id=com.appsorama.calculator)
-- The Balloons (http://theballoonsgame.com/)
-
-### Arlefreak
-- Luis Quiroz front and back end development (http://luisquiroz.me/index.html)
-- Ixaya front and back end development (http://www.ixayacondesa.com/)
-- ASP front and back end development (http://asp.mx/)
-- Monica Patiño front and back end development (http://mp.casavirginia.mx/)
-- Casa virginia and back end development (http://www.casavirginia.mx/)
-- Delirio & Abarrotes and back end development (http://delirio.mx/)
-
-## References
-- Github (https://github.com/Arlefreak)
-- Linkedln (http://lnkd.in/99e6bA)
-- Mail (hi@arlefreak.com)

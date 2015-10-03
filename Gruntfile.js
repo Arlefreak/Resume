@@ -1,11 +1,17 @@
 module.exports = function(grunt) {
     grunt.initConfig({
         markdownpdf: {
-            options: {},
+            options: {
+                cssPath: "./style.css",
+                remarkable: {
+                    html: true,
+                    xhtmlOut: true
+                }
+            },
             files: {
                 src: "*.md",
                 dest: "pdf/"
-            }
+            },
         }
     });
 
