@@ -22,4 +22,4 @@ gulp.task('copy', function () {
     .pipe(gulp.dest('./'));
 });
 
-gulp.task('default', ['to-markdown', 'copy']);
+gulp.task('default', ['to-markdown', 'to-pdf','copy']);
