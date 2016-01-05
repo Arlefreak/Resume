@@ -9,7 +9,7 @@ var express = require("express"),
     port = parseInt(process.env.PORT, 10) || 15304;
 
 app.get("/", function(req, res) {
-    res.redirect("README.html");
+    res.redirect("index.html");
 });
 app.use(methodOverride());
 app.use(bodyParser.urlencoded({
