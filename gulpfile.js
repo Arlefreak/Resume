@@ -1,6 +1,8 @@
 var gulp        = require('gulp');
 var runSequence = require('run-sequence');
 var rename      = require('gulp-rename');
+var remove      = require('gulp-html-remove');
+var replace     = require('gulp-replace');
 var toMarkdown  = require('gulp-to-markdown');
 var toPDF       = require('gulp-html-pdf');
 
@@ -133,8 +135,11 @@ gulp.task('watch', ['css', 'js', 'img', 'html', 'connect'], function() {
 gulp.task('to-markdown', function () {
     return gulp
         .src('src/**/*.html')
-        .pipe(toMarkdown())
+        .pipe(toMarkdown({ gfm: true }))
         .pipe(rename("README.md"))
+        .pipe(remove('script'))
+        .pipe(replace(/<[^>]*>/g,''))
+        .pipe(replace(/(\n){2,}/g,'\n'))
         .pipe(gulp.dest('build/md/'));
 });
 
