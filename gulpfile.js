@@ -139,7 +139,7 @@ gulp.task('to-markdown', function () {
         .pipe(rename("README.md"))
         .pipe(remove('script'))
         .pipe(replace(/<[^>]*>/g,''))
-        .pipe(replace(/(\n){2,}/g,'\n'))
+        .pipe(replace(/(\n){2,}/g,'\n\n'))
         .pipe(gulp.dest('build/md/'));
 });
 
