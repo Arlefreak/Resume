@@ -1,0 +1,84 @@
+main
+    width 80%
+    max-width 841px
+    margin 20px auto 20px auto
+    position relative
+    // border 1px solid #e3e3e3
+    h1,h2,h3,h4
+        font-weight 700
+        margin-bottom 10px
+        margin-top 10px
+
+    h1
+        font-weight 500
+        font-size 1.5em
+        text-decoration underline
+    h2
+        font-weight 500
+        font-size 1.3em
+        width 85%
+        border-top 1px solid $gray3
+        padding 10px 0 0 0
+    h2:first-of-type
+        border 0px
+    h3
+        font-weight 500
+        font-size 1.1em
+
+    h4
+        font-size 1.0em
+        font-weight 500
+
+    img
+        width 10%
+        height auto
+        top 0px
+        right 0px
+        position absolute
+    ul
+        width 80%
+        margin 10px auto 10px auto
+        font-size 0.8em
+        font-weight 300
+    li
+        max-width 600px
+        list-style square
+    p
+        color $gray4
+        font-size 0.8em
+        font-weight 300
+        font-style italic
+        margin 10px auto 10px auto
+        display block
+    .twoColumn
+        text-align center
+        &.left
+            text-align left
+        div
+        &>ul
+            width 39.5%
+            text-align left
+            display inline-block
+            vertical-align top
+            @media screen and (max-width: 600px)
+                width 80%
+        &>div
+            width 48%
+            &>ul
+                margin 10px 21% 10px
+                @media screen and (max-width: 600px)
+                    margin auto
+                    width 70%
+            @media screen and (max-width: 600px)
+                width 80%
+        div:first-child
+            width 39%
+            &>ul
+                margin 10px 26% 10px
+            @media screen and (max-width: 600px)
+                width 80%
+    div
+        &.margin
+            margin 20px 0px 0px 20px
+            clear both
+            width 10px
