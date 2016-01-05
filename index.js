@@ -15,7 +15,7 @@ app.use(methodOverride());
 app.use(bodyParser.urlencoded({
     extended: true
 }));
-app.use(express.static(__dirname + '/src'));
+app.use(express.static(__dirname + '/public'));
 app.use(errorHandler({
     dumpExceptions: true,
     showStack: true
