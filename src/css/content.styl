@@ -37,6 +37,11 @@ main
         top 0px
         right 0px
         position absolute
+        display block
+        @media screen and (max-width: 600px)
+            position relative
+            margin auto
+            width 80%
     ul
         width 80%
         margin 10px auto 10px auto
@@ -64,21 +69,6 @@ main
             text-align left
             display inline-block
             vertical-align top
-            @media screen and (max-width: 600px)
-                width 80%
-        &>div
-            width 48%
-            &>ul
-                margin 10px 21% 10px
-                @media screen and (max-width: 600px)
-                    margin auto
-                    width 70%
-            @media screen and (max-width: 600px)
-                width 80%
-        div:first-child
-            width 39%
-            &>ul
-                margin 10px 26% 10px
             @media screen and (max-width: 600px)
                 width 80%
     div

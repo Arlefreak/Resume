@@ -383,6 +383,14 @@ main img {
   top: 0px;
   right: 0px;
   position: absolute;
+  display: block;
+}
+@media screen and (max-width: 600px) {
+  main img {
+    position: relative;
+    margin: auto;
+    width: 80%;
+  }
 }
 main ul {
   width: 80%;
@@ -420,34 +428,6 @@ main .twoColumn>ul {
 @media screen and (max-width: 600px) {
   main .twoColumn div,
   main .twoColumn>ul {
-    width: 80%;
-  }
-}
-main .twoColumn>div {
-  width: 48%;
-}
-main .twoColumn>div>ul {
-  margin: 10px 21% 10px;
-}
-@media screen and (max-width: 600px) {
-  main .twoColumn>div>ul {
-    margin: auto;
-    width: 70%;
-  }
-}
-@media screen and (max-width: 600px) {
-  main .twoColumn>div {
-    width: 80%;
-  }
-}
-main .twoColumn div:first-child {
-  width: 39%;
-}
-main .twoColumn div:first-child>ul {
-  margin: 10px 26% 10px;
-}
-@media screen and (max-width: 600px) {
-  main .twoColumn div:first-child {
     width: 80%;
   }
 }
