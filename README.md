@@ -2,6 +2,30 @@
 
 # Mario Carballo Zama
 
+## References & Contact
+
+<div class="twoColumn">
+
+*   hi@arlefreak.com
+*   github.com/Arlefreak
+*   lnkd.in/99e6bA
+*   +52 55-1387-2076
+*   @/Arlefreak
+*   nyxtechnology.com
+*   hyperbeard.com
+*   appsorama.com
+
+*   theballoons.com
+*   arlefreak.com
+*   colegioandersen.edu.mx
+*   festivalcervantino.gob.mx
+*   asp.mx
+*   ixayacondesa.com
+*   casavirginia.mx
+*   delirio.mx
+
+</div>
+
 ## Experience
 
 *   Co-founder of Punto y coma January 2013 - January 2014.
@@ -35,6 +59,7 @@
 ### Apps-O-Rama
 
 *   Calculator Cute
+*   The Balloons
 
 ### Arlefreak
 
@@ -44,28 +69,6 @@
 *   Monica Patiño front and back end development
 *   Casa virginia and back end development
 *   Delirio & Abarrotes and back end development
-
-## References & Contact
-
-<div class="twoColumn">
-
-*   hi@arlefreak.com
-*   github.com/Arlefreak
-*   lnkd.in/99e6bA
-*   nyxtechnology.com
-*   hyperbeard.com
-*   appsorama.com
-*   arlefreak.com
-
-*   colegioandersen.edu.mx
-*   festivalcervantino.gob.mx
-*   luisquiroz.me
-*   asp.mx
-*   ixayacondesa.com
-*   casavirginia.mx
-*   delirio.mx
-
-</div>
 
 ## Education
 
@@ -80,78 +83,127 @@
 
 ## Skills
 
-<div class="twoColumn left">
-
 <div>
 
 ### Front End
 
+<div class="twoColumn">
+
 *   Html5
 *   Markdown
 *   Css3
+
 *   Jquery
-*   AngularJS
+*   Angular
+*   Backbone
+
+</div>
 
 ### Back End
+
+<div class="twoColumn">
 
 *   Django
 *   Wordpress
 *   Shopify
+
+*   Express
 *   NginX
 *   Systemd
 
+</div>
+
 ### Android Development
 
+<div class="twoColumn">
+
 *   Android Studio
+
 *   Graddle
+
+</div>
 
 ### Video game development
 
+<div class="twoColumn">
+
 *   Unity
 *   Phaser.js
+
 *   Corona SDK
+*   Cocos 2DX
+
+</div>
 
 ### Programming languages
+
+<div class="twoColumn">
 
 *   C#
 *   Java Script
 *   Bash
+
 *   Python
 *   Lua
 *   Java
 
 </div>
 
+</div>
+
 <div>
-
-### Version Control System
-
-*   Git(Github, Bitbucket)
-
-### Agile Software development
-
-*   Scrum(Trello, Jira)
 
 ### Text Editors
 
+<div class="twoColumn">
+
 *   Vim
+*   Nano
+
 *   Sublime text
+*   Atom
+
+</div>
 
 ### Design
 
 *While having no formal training or education in design, I have learnt to use the following programs on my own:*
 
+<div class="twoColumn">
+
 *   Adobe Suite
 *   Autodesk Maya
 *   Blender
+
 *   Gimp
 *   Inkscape
+*   Sketch
+
+</div>
+
+### Version cotrol
+
+<div class="twoColumn">
+
+*   Git
+
+*   SVN
+
+</div>
+
+### Team tools
+
+<div class="twoColumn">
+
+*   Scrum
+
+*   Kanban
+
+</div>
 
 ### System admin
 
 *   Linux (Arch, Debian)
-
-</div>
 
 </div>
 
