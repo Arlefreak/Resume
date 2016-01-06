@@ -346,6 +346,10 @@ body {
   box-sizing: border-box;
   padding: 10px;
 }
+.main .pageBreak {
+  page-break-before: always;
+  margin: 10px 0 10px 0;
+}
 .main h1,
 .main h2,
 .main h3,
