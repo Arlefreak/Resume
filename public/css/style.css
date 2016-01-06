@@ -346,12 +346,6 @@ body {
   box-sizing: border-box;
   padding: 10px;
 }
-@media print {
-  .main {
-    margin: 0;
-    padding: 0;
-  }
-}
 .main .pageBreak {
   page-break-before: always;
   margin: 10px 0 10px 0;
