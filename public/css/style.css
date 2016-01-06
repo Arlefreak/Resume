@@ -377,7 +377,7 @@ header a {
 }
 .main .pageBreak {
   page-break-before: always;
-  margin: 10px 0 10px 0;
+  margin: 10px 0 20px 0;
 }
 .main h1,
 .main h2,
