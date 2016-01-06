@@ -423,6 +423,16 @@ header a {
   font-weight: lighter;
   font-weight: 300;
   color: #000;
+  text-decoration: none;
+  padding: 1px 0 1px 0;
+  border-bottom: 1px solid #999;
+  display: inline-block;
+}
+@media print {
+  .main a {
+    padding: 0;
+    border: none;
+  }
 }
 .main .logo {
   width: 10%;
