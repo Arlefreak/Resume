@@ -135,6 +135,7 @@ gulp.task('watch', ['css', 'js', 'img', 'html', 'connect'], function() {
 gulp.task('to-markdown', function () {
     return gulp
         .src('src/**/*.html')
+        .pipe(remove('header'))
         .pipe(toMarkdown({ gfm: true }))
         .pipe(rename("README.md"))
         .pipe(remove('script'))
@@ -147,9 +148,11 @@ gulp.task('to-pdf', function() {
     return gulp
         .src('src/index.html')
         .pipe(remove('script'))
+        .pipe(remove('header'))
         .pipe(toPDF())
         .pipe(rename("MarioCarballoZamaCV.pdf"))
-        .pipe(gulp.dest('build/pdf/'));
+        .pipe(gulp.dest('build/pdf/'))
+        .pipe(gulp.dest('public/'));
 });
 
 gulp.task('copy', function () {

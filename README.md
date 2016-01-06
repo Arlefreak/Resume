@@ -31,7 +31,7 @@
 *   Co-founder of Punto y coma January 2013 - January 2014.
 *   Nyx Technology February 2013 - September 2014.
 *   HyperBeard Games May 2014 - present.
-*   Apps-O-Rama Febrary 2015 - present.
+*   Apps-O-Rama February 2015 - present.
 *   Freelance.
 
 ### Apps-O-Rama
@@ -73,7 +73,7 @@
 
 ### Punto y coma
 
-*   Front and back end development forColegio Andersen.
+*   Front and back end development for Colegio Andersen.
 
 ## Education
 
@@ -142,7 +142,7 @@
 
 ### Design
 
-_While having no formal training or education in design, I have learn to use the following programs on my own_
+_While having no formal training or education in design, I have learned to use the following programs on my own_
 
 *   Adobe Suite
 *   Autodesk Maya
