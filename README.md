@@ -4,23 +4,23 @@
 
 ## References & Contact
 
-*   hi@arlefreak.com
-*   github.com/Arlefreak
-*   lnkd.in/99e6bA
-*   +52 55-1387-2076
-*   @/Arlefreak
-*   nyxtechnology.com
-*   hyperbeard.com
-*   appsorama.com
+*   [hi@arlefreak.com](hi@arlefreak.com)
+*   [agithub.com/Arlefreak](agithub.com/Arlefreak)
+*   [lnkd.in/99e6bA](lnkd.in/99e6bA)
+*   [+52 55-1387-2076](+52 55-1387-2076)
+*   [@/Arlefreak](@/Arlefreak)
+*   [nyxtechnology.com](nyxtechnology.com)
+*   [hyperbeard.com](hyperbeard.com)
+*   [appsorama.com](appsorama.com)
 
-*   theballoons.com
-*   arlefreak.com
-*   colegioandersen.edu.mx
-*   festivalcervantino.gob.mx
-*   asp.mx
-*   ixayacondesa.com
-*   casavirginia.mx
-*   delirio.mx
+*   [theballoons.com](theballoons.com)
+*   [arlefreak.com](arlefreak.com)
+*   [colegioandersen.edu.mx](colegioandersen.edu.mx)
+*   [festivalcervantino.gob.mx](festivalcervantino.gob.mx)
+*   [asp.mx](asp.mx)
+*   [ixayacondesa.com](ixayacondesa.com)
+*   [casavirginia.mx](casavirginia.mx)
+*   [delirio.mx](delirio.mx)
 
 ## Experience
 
@@ -30,9 +30,28 @@
 *   Apps-O-Rama Febrary 2015 - present.
 *   Arlefreak as a freelancer.
 
-### Punto y coma
+### Apps-O-Rama
 
-*   Front and back end development forColegio Andersen.
+*   The Balloons
+*   Spin the wheel
+*   Calculator Cute
+
+### HyperBeard Games
+
+*   Front and back end development for HyperBeard Games website.
+*   Game development on Bouncing Dude.
+*   Game development on Palabraz.
+*   Game development on Muertitos.
+*   Game development on Space Scape.
+
+### Freelance
+
+*   Luis Quiroz front and back end development
+*   ASP front and back end development asp.mx
+*   Ixaya front and back end development ixayacondesa.com
+*   Monica Patiño front and back end development
+*   Casa virginia and back end development
+*   Delirio & Abarrotes and back end development
 
 ### Nyx Technology
 
@@ -44,27 +63,9 @@
 *   Development for the redesigned interface for the Lunario 2013 app.
 *   Back end development using wordpress platform for the author's Gabriel Zaid.
 
-### HyperBeard Games
+### Punto y coma
 
-*   Front and back end development for HyperBeard Games website.
-*   Game development on Bouncing Dude.
-*   Game development on Palabraz.
-*   Game development on Muertitos.
-*   Game development on Space Scape.
-
-### Apps-O-Rama
-
-*   Calculator Cute
-*   The Balloons
-
-### Arlefreak
-
-*   Luis Quiroz front and back end development
-*   ASP front and back end development asp.mx
-*   Ixaya front and back end development ixayacondesa.com
-*   Monica Patiño front and back end development
-*   Casa virginia and back end development
-*   Delirio & Abarrotes and back end development
+*   Front and back end development forColegio Andersen.
 
 ## Education
 
@@ -133,7 +134,7 @@
 
 ### Design
 
-_While having no formal training or education in design, I have learnt to use the following programs on my own_
+_While having no formal training or education in design, I have learn to use the following programs on my own_
 
 *   Adobe Suite
 *   Autodesk Maya

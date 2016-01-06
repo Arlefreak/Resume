@@ -355,13 +355,13 @@ main h4 {
   margin-top: 10px;
 }
 main h1 {
-  font-weight: 500;
+  font-weight: 700;
   font-size: 1.5em;
   text-decoration: underline;
 }
 main h2 {
-  font-weight: 500;
-  font-size: 1.3em;
+  font-weight: 700;
+  font-size: 1.2em;
   width: 85%;
   border-top: 1px solid #999;
   padding: 10px 0 0 0;
@@ -371,11 +371,14 @@ main h2:first-of-type {
 }
 main h3 {
   font-weight: 500;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 main h4 {
   font-size: 1em;
   font-weight: 500;
+}
+main a {
+  color: #000;
 }
 main img {
   width: 10%;
