@@ -4,23 +4,27 @@
 
 ## References & Contact
 
-*   [hi@arlefreak.com](hi@arlefreak.com)
-*   [agithub.com/Arlefreak](agithub.com/Arlefreak)
-*   [lnkd.in/99e6bA](lnkd.in/99e6bA)
-*   [+52 55-1387-2076](+52 55-1387-2076)
-*   [@/Arlefreak](@/Arlefreak)
-*   [nyxtechnology.com](nyxtechnology.com)
-*   [hyperbeard.com](hyperbeard.com)
-*   [appsorama.com](appsorama.com)
+*   [hi@arlefreak.com](mailto:hi@arlefreak.com)
+*   [github.com/Arlefreak](http://github.com/Arlefreak)
+*   [lnkd.in/99e6bA](http://lnkd.in/99e6bA)
+*   [+52 55-1387-2076](tel:+52 55-1387-2076)
+*   [@/Arlefreak](http://twitter.com/@Arlefreak)
+*   [nyxtechnology.com](http://nyxtechnology.com)
+*   [hyperbeard.com](http://hyperbeard.com)
+*   [appsorama.com](http://appsorama.com)
+*   [theballoonsgame.com](http://theballoonsgame.com/)
+*   [arlefreak.com](http://arlefreak.com)
 
-*   [theballoons.com](theballoons.com)
-*   [arlefreak.com](arlefreak.com)
-*   [colegioandersen.edu.mx](colegioandersen.edu.mx)
-*   [festivalcervantino.gob.mx](festivalcervantino.gob.mx)
-*   [asp.mx](asp.mx)
-*   [ixayacondesa.com](ixayacondesa.com)
-*   [casavirginia.mx](casavirginia.mx)
-*   [delirio.mx](delirio.mx)
+*   [colegioandersen.edu.mx](http://colegioandersen.edu.mx)
+*   [festivalcervantino.gob.mx](http://festivalcervantino.gob.mx)
+*   [asp.mx](http://asp.mx)
+*   [ixayacondesa.com](http://ixayacondesa.com)
+*   [casavirginia.mx](http://casavirginia.mx)
+*   [delirio.mx](http://delirio.mx)
+*   [mexicanaderotulacion.com](http://mexicanaderotulacion.com/)
+*   [malobarba.com](http://malobarba.com/index.html)
+*   [amarte.io](http://amarte.io/index.html)
+*   [horchata.club](http://horchata.club)
 
 ## Experience
 
@@ -28,7 +32,7 @@
 *   Nyx Technology February 2013 - September 2014.
 *   HyperBeard Games May 2014 - present.
 *   Apps-O-Rama Febrary 2015 - present.
-*   Arlefreak as a freelancer.
+*   Freelance.
 
 ### Apps-O-Rama
 
@@ -52,6 +56,10 @@
 *   Monica Patiño front and back end development
 *   Casa virginia and back end development
 *   Delirio & Abarrotes and back end development
+*   Mexicana de rotulación front and back end development
+*   Malo barba front end, back end and web design
+*   Amarte.io front end, back end and web design
+*   Horchata.club front end, back end and web design
 
 ### Nyx Technology
 

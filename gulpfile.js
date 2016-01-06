@@ -125,7 +125,7 @@ gulp.task('watch', ['css', 'js', 'img', 'html', 'connect'], function() {
     gulp.watch('src/css/**/*.styl', ['css']);
     gulp.watch('src/js/**/*.js', ['js']);
     gulp.watch('src/img/**/*', ['img']);
-    gulp.watch('src/*.html', ['html']);
+    gulp.watch('src/*.html', ['html', 'publish']);
 });
 
 /* Convertion Tasks
