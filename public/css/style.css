@@ -336,7 +336,7 @@ body {
   background: #fff;
   font-family: 'Source Code Pro', monaco, monospace;
 }
-main {
+.main {
   width: 80%;
   max-width: 841px;
   margin: 20px auto 20px auto;
@@ -346,41 +346,41 @@ main {
   box-sizing: border-box;
   padding: 10px;
 }
-main h1,
-main h2,
-main h3,
-main h4 {
+.main h1,
+.main h2,
+.main h3,
+.main h4 {
   font-weight: 700;
   margin-bottom: 10px;
   margin-top: 10px;
 }
-main h1 {
+.main h1 {
   font-weight: 700;
   font-size: 1.5em;
   text-decoration: underline;
 }
-main h2 {
+.main h2 {
   font-weight: 700;
   font-size: 1.2em;
   width: 85%;
   border-top: 1px solid #999;
   padding: 10px 0 0 0;
 }
-main h2:first-of-type {
+.main h2:first-of-type {
   border: 0px;
 }
-main h3 {
+.main h3 {
   font-weight: 500;
   font-size: 1em;
 }
-main h4 {
+.main h4 {
   font-size: 1em;
   font-weight: 500;
 }
-main a {
+.main a {
   color: #000;
 }
-main img {
+.main img {
   width: 10%;
   height: auto;
   top: 0px;
@@ -389,23 +389,23 @@ main img {
   display: block;
 }
 @media screen and (max-width: 600px) {
-  main img {
+  .main img {
     position: relative;
     margin: auto;
     width: 80%;
   }
 }
-main ul {
+.main ul {
   width: 80%;
   margin: 10px auto 10px auto;
   font-size: 0.8em;
   font-weight: 300;
 }
-main li {
+.main li {
   max-width: 600px;
   list-style: square;
 }
-main p {
+.main p {
   color: #666;
   font-size: 0.8em;
   font-weight: 300;
@@ -415,26 +415,26 @@ main p {
   width: 80%;
   max-width: 600px;
 }
-main .twoColumn {
+.main .twoColumn {
   text-align: center;
 }
-main .twoColumn.left {
+.main .twoColumn.left {
   text-align: left;
 }
-main .twoColumn div,
-main .twoColumn>ul {
+.main .twoColumn div,
+.main .twoColumn>ul {
   width: 39.5%;
   text-align: left;
   display: inline-block;
   vertical-align: top;
 }
 @media screen and (max-width: 600px) {
-  main .twoColumn div,
-  main .twoColumn>ul {
+  .main .twoColumn div,
+  .main .twoColumn>ul {
     width: 80%;
   }
 }
-main div.margin {
+.main div.margin {
   margin: 20px 0px 0px 20px;
   clear: both;
   width: 10px;
