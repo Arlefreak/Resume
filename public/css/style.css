@@ -346,6 +346,12 @@ body {
   box-sizing: border-box;
   padding: 10px;
 }
+@media print {
+  .main {
+    margin: 0;
+    padding: 0;
+  }
+}
 .main .pageBreak {
   page-break-before: always;
   margin: 10px 0 10px 0;
@@ -356,8 +362,7 @@ body {
 .main h4 {
   font-weight: bolder;
   font-weight: 700;
-  margin-bottom: 10px;
-  margin-top: 10px;
+  margin: 10px 0 10px 0;
 }
 .main h1 {
   font-weight: bolder;
@@ -372,6 +377,11 @@ body {
   width: 85%;
   border-top: 1px solid #999;
   padding: 10px 0 0 0;
+}
+@media print {
+  .main h2 {
+    padding: 8px 0 0 0;
+  }
 }
 .main h2:first-of-type {
   border: 0px;
@@ -408,7 +418,7 @@ body {
 }
 .main ul {
   width: 80%;
-  margin: 10px auto 10px auto;
+  margin: 10px auto 0px auto;
   font-size: 0.8em;
   font-weight: lighter;
   font-weight: 300;
