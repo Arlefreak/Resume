@@ -145,7 +145,7 @@ gulp.task('to-markdown', function () {
 
 gulp.task('to-pdf', function() {
     return gulp
-        .src('src/**/*.html')
+        .src('src/index.html')
         .pipe(remove('script'))
         .pipe(toPDF())
         .pipe(rename("MarioCarballoZamaCV.pdf"))

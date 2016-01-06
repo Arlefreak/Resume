@@ -380,16 +380,16 @@ body {
 .main a {
   color: #000;
 }
-.main img {
+.main .logo {
   width: 10%;
   height: auto;
-  top: 0px;
-  right: 0px;
+  top: 10px;
+  right: 10px;
   position: absolute;
   display: block;
 }
 @media screen and (max-width: 600px) {
-  .main img {
+  .main .logo {
     position: relative;
     margin: auto;
     width: 80%;
