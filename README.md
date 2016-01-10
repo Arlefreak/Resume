@@ -162,3 +162,9 @@ _While having no formal training or education in design, I have learned to use t
 
 *   Linux (Arch, Debian)
 
+### Team tools
+
+*   Scrum
+
+*   Kanban
+

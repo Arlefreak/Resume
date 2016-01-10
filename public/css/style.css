@@ -385,7 +385,11 @@ header ul li a {
 }
 .main .pageBreak {
   page-break-before: always;
-  margin: 10px 0 20px 0;
+}
+@media print {
+  .main .pageBreak {
+    margin: 50px;
+  }
 }
 .main h1,
 .main h2,
