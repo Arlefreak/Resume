@@ -5,6 +5,12 @@
     position relative
     box-sizing border-box
     padding 10px
+    .separation
+        display none
+        @media print
+            height 1px
+            display block
+            margin 20px
     .pageBreak
         page-break-before always
         @media print

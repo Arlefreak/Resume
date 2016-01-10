@@ -383,6 +383,16 @@ header ul li a {
   box-sizing: border-box;
   padding: 10px;
 }
+.main .separation {
+  display: none;
+}
+@media print {
+  .main .separation {
+    height: 1px;
+    display: block;
+    margin: 20px;
+  }
+}
 .main .pageBreak {
   page-break-before: always;
 }
