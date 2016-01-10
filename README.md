@@ -2,25 +2,33 @@
 
 # Mario Carballo Zama
 
-## References & Contact
+## Info & Contact
 
+*   Single
+*   13/04/1992
 *   [hi@arlefreak.com](mailto:hi@arlefreak.com)
+*   [+52 55-1387-2076](tel:+52 55-1387-2076)
+
 *   [github.com/Arlefreak](http://github.com/Arlefreak)
 *   [lnkd.in/99e6bA](http://lnkd.in/99e6bA)
-*   [+52 55-1387-2076](tel:+52 55-1387-2076)
-*   [@/Arlefreak](http://twitter.com/@Arlefreak)
+*   [@Arlefreak](http://twitter.com/@Arlefreak)
+*   [+MarioCarballo](https://plus.google.com/u/0/+MarioCarballo/posts)
+
+## References
+
 *   [nyxtechnology.com](http://nyxtechnology.com)
 *   [hyperbeard.com](http://hyperbeard.com)
 *   [appsorama.com](http://appsorama.com)
 *   [theballoonsgame.com](http://theballoonsgame.com/)
 *   [arlefreak.com](http://arlefreak.com)
-
 *   [colegioandersen.edu.mx](http://colegioandersen.edu.mx)
 *   [festivalcervantino.gob.mx](http://festivalcervantino.gob.mx)
 *   [asp.mx](http://asp.mx)
+
 *   [ixayacondesa.com](http://ixayacondesa.com)
 *   [casavirginia.mx](http://casavirginia.mx)
 *   [delirio.mx](http://delirio.mx)
+*   [luisquiroz.me](http://luisquiroz.me/index.html)
 *   [mexicanaderotulacion.com](http://mexicanaderotulacion.com/)
 *   [malobarba.com](http://malobarba.com/index.html)
 *   [amarte.io](http://amarte.io/index.html)
@@ -132,14 +140,6 @@
 *   Lua
 *   Java
 
-### Text Editors
-
-*   Vim
-*   Nano
-
-*   Sublime text
-*   Atom
-
 ### Design
 
 _While having no formal training or education in design, I have learned to use the following programs on my own_
@@ -157,12 +157,6 @@ _While having no formal training or education in design, I have learned to use t
 *   Git
 
 *   SVN
-
-### Team tools
-
-*   Scrum
-
-*   Kanban
 
 ### System admin
 
