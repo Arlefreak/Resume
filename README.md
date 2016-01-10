@@ -6,13 +6,14 @@
 
 *   Single
 *   13/04/1992
+*   Mexico City 04100
+*   Nationality: Mexican/Italian
+
 *   [hi@arlefreak.com](mailto:hi@arlefreak.com)
 *   [+52 55-1387-2076](tel:+52 55-1387-2076)
-
 *   [github.com/Arlefreak](http://github.com/Arlefreak)
 *   [lnkd.in/99e6bA](http://lnkd.in/99e6bA)
 *   [@Arlefreak](http://twitter.com/@Arlefreak)
-*   [+MarioCarballo](https://plus.google.com/u/0/+MarioCarballo/posts)
 
 ## References
 
