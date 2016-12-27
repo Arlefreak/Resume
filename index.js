@@ -10,8 +10,8 @@ const methodOverride = require('method-override');
 const port = parseInt(process.env.PORT, 10) || 8000;
 const DEV = process.env.NODE_ENV !== 'production';
 
-app.get("/", (req, res)=> {
-    res.redirect("index.html");
+app.get("/*", (req, res)=> {
+    res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
 });
 
 app.use(methodOverride());
