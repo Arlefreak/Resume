@@ -10,6 +10,7 @@ const methodOverride = require('method-override');
 const port = parseInt(process.env.PORT, 10) || 8000;
 const DEV = process.env.NODE_ENV !== 'production';
 
+app.use(express.static(__dirname + '/public'));
 app.get("/*", (req, res)=> {
     res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
 });
@@ -19,7 +20,6 @@ app.use(bodyParser.urlencoded({
     extended: true
 }));
 
-app.use(express.static(__dirname + '/public'));
 
 app.use(errorHandler({
     dumpExceptions: true,

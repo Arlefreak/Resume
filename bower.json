@@ -1,0 +1,21 @@
+{
+  "name": "ArlefreakResume",
+  "description": "Arlefreak's Resume",
+  "main": "index.js",
+  "authors": [
+    "Arlefreak <hi@arlefreak.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "resume"
+  ],
+  "homepage": "https://github.com/Arlefreak/resume.afk",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

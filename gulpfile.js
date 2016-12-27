@@ -119,13 +119,17 @@ gulp.task('connect', function() {
     });
 });
 
-gulp.task('init', ['css', 'bower', 'js', 'img', 'html', 'files']);
+gulp.task('init', ['css', 'js', 'img', 'html', 'files']);
 
 gulp.task('watch', ['css', 'js', 'img', 'html', 'connect'], function() {
     gulp.watch('src/css/**/*.styl', ['css']);
     gulp.watch('src/js/**/*.js', ['js']);
     gulp.watch('src/img/**/*', ['img']);
     gulp.watch('src/*.html', ['html', 'publish']);
+});
+
+gulp.task('default', ()=> {
+    runSequence('init', 'watch');
 });
 
 /* Convertion Tasks
