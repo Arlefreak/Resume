@@ -9,8 +9,8 @@
 *   Mexico City 04100
 *   Nationality: Mexican/Italian
 
+*   +52 55-1387-2076
 *   [hi@arlefreak.com](mailto:hi@arlefreak.com)
-*   [+52 55-1387-2076](tel:+52 55-1387-2076)
 *   [github.com/Arlefreak](http://github.com/Arlefreak)
 *   [lnkd.in/99e6bA](http://lnkd.in/99e6bA)
 *   [@Arlefreak](http://twitter.com/@Arlefreak)
