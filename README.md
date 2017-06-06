@@ -1,4 +1,4 @@
-![Arlefreak](http://cv.arlefreak.com/img/logo.svg)
+![Ellugar](https://cv.arlefreak.com/img/logo.svg)
 
 # Mario Carballo Zama
 
