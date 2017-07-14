@@ -2,132 +2,106 @@
 
 # Mario Carballo Zama
 
+For a complete list of projects and more information visit [https://ellugar.co](ellugar.co)
+
 ## Info & Contact
 
-*   Single
 *   13/04/1992
 *   Mexico City 04100
 *   Nationality: Mexican/Italian
 
 *   +52 55-1387-2076
-*   [hi@arlefreak.com](mailto:hi@arlefreak.com)
+*   [afk@ellugar.co](mailto:afk@ellugar.co)
 *   [github.com/Arlefreak](http://github.com/Arlefreak)
 *   [lnkd.in/99e6bA](http://lnkd.in/99e6bA)
-*   [@Arlefreak](http://twitter.com/@Arlefreak)
+*   [@afk_mcz](http://twitter.com/@afk_mcz)
 
 ## References
 
-*   [nyxtechnology.com](http://nyxtechnology.com)
-*   [hyperbeard.com](http://hyperbeard.com)
-*   [appsorama.com](http://appsorama.com)
-*   [theballoonsgame.com](http://theballoonsgame.com/)
-*   [arlefreak.com](http://arlefreak.com)
-*   [colegioandersen.edu.mx](http://colegioandersen.edu.mx)
-*   [festivalcervantino.gob.mx](http://festivalcervantino.gob.mx)
+*   [hyperbeard.com](https://hyperbeard.com)
+*   [ellugar.co](https://ellugar.co)
+*   [Detrás del Pixel](https://ellugar.co/podcasts/detras-del-pixel)
+*   [arte7](https://arte7.net)
 *   [asp.mx](http://asp.mx)
-
 *   [ixayacondesa.com](http://ixayacondesa.com)
-*   [casavirginia.mx](http://casavirginia.mx)
-*   [delirio.mx](http://delirio.mx)
-*   [luisquiroz.me](http://luisquiroz.me/index.html)
-*   [mexicanaderotulacion.com](http://mexicanaderotulacion.com/)
-*   [malobarba.com](http://malobarba.com/index.html)
-*   [amarte.io](http://amarte.io/index.html)
 *   [horchata.club](http://horchata.club)
 
 ## Experience
 
-*   Co-founder of Punto y coma January 2013 - January 2014.
+*   HyperBeard Games May 2014 - 2017.
+*   Detrás del Pixel 2017 - Present.
+*   Contract Work.
 *   Nyx Technology February 2013 - September 2014.
-*   HyperBeard Games May 2014 - present.
-*   Apps-O-Rama February 2015 - present.
-*   Freelance.
 
-### Apps-O-Rama
+### Detrás del Pixel
 
-*   The Balloons
-*   Spin the wheel
-*   Calculator Cute
+A podcast about what happens behind Game development in spanish, the first 8 episodes where released on 2017.
 
-### HyperBeard Games
+### HyperBeard Games Projects I worked on
 
-*   Front and back end development for HyperBeard Games website.
-*   Game development on Bouncing Dude.
-*   Game development on Palabraz.
-*   Game development on Muertitos.
-*   Game development on Space Scape.
+*   Chichens
+*   Alchademy
+*   Klecptocats
+*   Balloons
+*   Muertitos.
+*   Space Scape.
+*   Palabraz.
+*   Bouncing Dude.
+*   Website.
 
-### Freelance
+### Contract work
 
-*   Luis Quiroz front and back end development
 *   ASP front and back end development asp.mx
-*   Ixaya front and back end development ixayacondesa.com
-*   Monica Patiño front and back end development
-*   Casa virginia and back end development
 *   Delirio & Abarrotes and back end development
-*   Mexicana de rotulación front and back end development
-*   Malo barba front end, back end and web design
-*   Amarte.io front end, back end and web design
 *   Horchata.club front end, back end and web design
+*   Arte7 front end, back end and web design
 
-### Nyx Technology
+### Nyx Technology projects
 
-*   Front end development for the companies web page overhaul Nyxtechnology.
-*   Front end development for the 2013 Festival Internacional Cervantino.
-*   Interface design and development for the android app for the: Festival Internacional Cervantino 2013.
-*   Interface design and development for the android app for the: Festival Internacional de cine de Acapulco 2013.
+*   Nyxtechnology main website.
+*   2013 Festival Internacional Cervantino website.
+*   UI/UX design and development for the android app for the: Festival Internacional Cervantino 2013.
+*   UI/UX design and development for the android app for the: Festival Internacional de cine de Acapulco 2013.
 *   Development for the redesigned interface for the National Auditorium 2013 app.
 *   Development for the redesigned interface for the Lunario 2013 app.
 *   Back end development using wordpress platform for the author's Gabriel Zaid.
 
-### Punto y coma
-
-*   Front and back end development for Colegio Andersen.
-
 ## Education
 
 *   B.D. in Digital Animation at Universidad Panamericana campus Ciudad de México.
-*   Currently majoring in Project Administration at Universidad Panamericana campus Ciudad de México
+*   Major in Project Administration at Universidad Panamericana campus Ciudad de México
 
 ### Languages
 
 *   Spanish: Native speaker
-*   English: Passed TOEFL test in 2010
+*   English: Advance
 *   French: Intermediate level I
 
 ## Skills
 
 ### Front End
 
-*   Html5
-*   Markdown
-*   Css3
-
-*   Jquery
-*   Angular
-*   Backbone
+*   Html/CSS
+*   Java script (mainly on React/Redux)
 
 ### Back End
 
 *   Django
-*   Wordpress
-*   Shopify
+*   Node/Express
 
-*   Express
+### Sys admin
 *   NginX
-*   Systemd
+*   Linux server administration and maintenance
 
 ### Android Development
 
 *   Android Studio
-
 *   Graddle
 
 ### Video game development
 
 *   Unity
 *   Phaser.js
-
 *   Corona SDK
 *   Cocos 2DX
 
@@ -136,22 +110,18 @@
 *   C#
 *   Java Script
 *   Bash
-
 *   Python
 *   Lua
 *   Java
 
 ### Design
 
-_While having no formal training or education in design, I have learned to use the following programs on my own_
-
+*   Sketch
 *   Adobe Suite
 *   Autodesk Maya
 *   Blender
-
 *   Gimp
 *   Inkscape
-*   Sketch
 
 ### Version cotrol
 
