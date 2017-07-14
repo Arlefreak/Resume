@@ -26,28 +26,21 @@ For a complete list of projects and more information visit [https://ellugar.co](
 *   [ixayacondesa.com](http://ixayacondesa.com)
 *   [horchata.club](http://horchata.club)
 
-## Experience
+### HyperBeard Games Projects I worked on (2014 - 2017)
 
-*   HyperBeard Games May 2014 - 2017.
-*   Detrás del Pixel 2017 - Present.
-*   Contract Work.
-*   Nyx Technology February 2013 - September 2014.
-
-### Detrás del Pixel
-
-A podcast about what happens behind Game development in spanish, the first 8 episodes where released on 2017.
-
-### HyperBeard Games Projects I worked on
-
-*   Chichens
-*   Alchademy
-*   Klecptocats
-*   Balloons
+*   Kleptocats.
+*   Chichens.
+*   Alchademy.
+*   Balloons.
 *   Muertitos.
 *   Space Scape.
 *   Palabraz.
 *   Bouncing Dude.
 *   Website.
+
+### Detrás del Pixel
+
+A podcast about what happens behind Game development in spanish, the first 8 episodes where released on 2017.
 
 ### Contract work
 
