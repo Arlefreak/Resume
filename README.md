@@ -95,17 +95,12 @@ A podcast about what happens behind Game development in spanish, the first 8 epi
 *   NginX
 *   Linux server administration and maintenance
 
-### Android Development
-
-*   Android Studio
-*   Graddle
-
 ### Programming languages
 
 *   C#
 *   Java Script
-*   Bash
 *   Python
+*   Bash
 *   Lua
 *   Java
 
@@ -118,19 +113,12 @@ A podcast about what happens behind Game development in spanish, the first 8 epi
 *   Gimp
 *   Inkscape
 
-### Version cotrol
+### General development
 
 *   Git
 
-*   SVN
-
-### System admin
-
-*   Linux (Arch, Debian)
-
-### Team tools
+### Project management tools
 
 *   Scrum
-
 *   Kanban
 
