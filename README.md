@@ -26,6 +26,8 @@ For a complete list of projects and more information visit [https://ellugar.co](
 *   [ixayacondesa.com](http://ixayacondesa.com)
 *   [horchata.club](http://horchata.club)
 
+## Experience
+
 ### HyperBeard Games Projects I worked on (2014 - 2017)
 
 *   Kleptocats.
@@ -72,6 +74,13 @@ A podcast about what happens behind Game development in spanish, the first 8 epi
 
 ## Skills
 
+### Video game development
+
+*   Unity
+*   Phaser.js
+*   Corona SDK
+*   Cocos 2DX
+
 ### Front End
 
 *   Html/CSS
@@ -90,13 +99,6 @@ A podcast about what happens behind Game development in spanish, the first 8 epi
 
 *   Android Studio
 *   Graddle
-
-### Video game development
-
-*   Unity
-*   Phaser.js
-*   Corona SDK
-*   Cocos 2DX
 
 ### Programming languages
 
