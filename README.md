@@ -38,18 +38,18 @@ For a complete list of projects and more information visit [https://ellugar.co](
 *   Bouncing Dude.
 *   Website.
 
-### Detrás del Pixel
+### Detrás del Pixel (2017 - present)
 
 A podcast about what happens behind Game development in spanish, the first 8 episodes where released on 2017.
 
-### Contract work
+### Contract work (2012 - present)
 
+*   Arte7 front end, back end and web design
 *   ASP front and back end development asp.mx
 *   Delirio & Abarrotes and back end development
 *   Horchata.club front end, back end and web design
-*   Arte7 front end, back end and web design
 
-### Nyx Technology projects
+### Nyx Technology projects (2013 - 2014)
 
 *   Nyxtechnology main website.
 *   2013 Festival Internacional Cervantino website.
